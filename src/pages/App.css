@@ -1,0 +1,27 @@
+.principal {
+  display: flex;
+  justify-content: flex-start;
+}
+
+#title {
+  margin-left: 15vw;
+  margin-top: 15vh;
+  font-size: 4.8em;
+  color: #414fb8;
+}
+
+.subtext {
+  font-weight: 600;
+}
+
+.center-subtext {
+  margin-top: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.box-button-center {
+  display: flex;
+  justify-content: center;
+}
